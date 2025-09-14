@@ -1,5 +1,5 @@
-/* .all-work { */
-    /* padding: 30px; */
+.all-work {
+padding: 30px;
 }
 
 
@@ -9,6 +9,7 @@
     margin-left: 30px;
     margin-right: 30px;
     border-radius: 5px;
+
 }
 
 
@@ -31,22 +32,20 @@ a {
 }
 
 .main-work {
-    margin: 50px;
+    margin: 40px;
 
 }
 
 .hero-section {
     display: flex;
     /* border: 2px solid blue; */
-    margin: 10px;
+    margin: 50px;
     padding: 20px;
-    margin: auto;
     align-items: center;
 }
 
 .hero-hedar {
     text-align: center;
-
 
 
 }
@@ -57,7 +56,8 @@ a {
 
 .main-headar {
     display: flex;
-    margin: 20px;
+    margin: 110px;
+
 }
 
 .card {
